@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  </head>
+  <body>
+    <h1> Unalphabetized list</h1>
+    Ahmad<sup>3</sup>
+    <br>
+    Uawed<sup>2</sup>
+    <br>
+    Jamil<sup>1</sup>
+    <br>
+    Sakhi<sup>4</sup>
+    <br>
+    Ramin<sup>5</sup>
+    <br>
+    Nabi<sup>6</sup>
+    <br>
+    Rayess<sup>7</sup>
+    <br>
+    Ahma<sup>8</sup>
+    <br>
+    Ahad<sup>10</sup>
+    <br>
+    Amad<sup>9</sup>
+    <br>
+    <h1>Alphabetized list</h1>
+    Ahmad <br>
+    Navid <br>
+    Jamil <br>
+    Eran <br>
+    Sahil <br>
+    Jamila <br>
+    Rahman <br>
+    Mujtaba <br>
+    Rafi <br>
+    Safi <br>
+  </body>
+</html>

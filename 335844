@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  </head>
+  <body>
+    <abbr title="Abstract">Abstr.</abbr> <br>
+    <abbr title="Biochemistry">Biochem.</abbr> <br>
+    <abbr title="Example">EX.</abbr> <br>
+    <abbr title="Mathematics">Math.</abbr> <br>
+    <abbr title="Literature">Lit</abbr> <br>
+
+    <br/></br>
+
+    <acronym title="Hyper Text Markup Language">HTML</acronym> <br>
+    <acronym title="World Wide Web ">WWW</acronym> <br>
+    <acronym title="Personal Computer">PC</acronym> <br>
+    <acronym title="Very Important Person">VIP</acronym> <br>
+    <acronym title="International Standards Organization">ISO</acronym> <br>
+
+  </acronym>
+  <p>
+    NOTE: If you want to see more data. <br>
+    move the mose an abbreviation or acronym.
+  </p>
+
+  </body>
+</html>

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+  <dl>
+    <dt>HTML</dt>
+    <dd> A markup Language</dd>
+    <dt>Kabul</dt>
+    <dd> Capital city of Afghanistan</dd>
+    <dt>PC</dt>
+    <dd> stand of personal computer</dd>
+    <dt>Benana</dt>
+    <dd> A fruit</dd>
+    <dt>Pen</dt>
+    <dd> A writting tool</dd>
+  </dl>
+  </body>
+</html>
